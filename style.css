@@ -1,0 +1,111 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 18px;
+    line-height: 35px;
+  }
+  
+  h1 {
+    margin: 0;
+  }
+  
+  nav {
+    margin-left: auto;
+  }
+  
+  nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+  }
+  
+  nav li {
+    margin-right: 20px;
+    font-size: 22px;
+  }
+  
+  nav a {
+    text-decoration: none;
+    color: #000;
+  }
+  div .header{
+    background-color: brown;
+    height: 80px; width: auto;
+
+  }
+  body{
+    background-color: rgba(189, 197, 197, 0.712);
+    background-image:url() ;
+  }
+  .two-columns{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+  }
+  .column {
+    width: 600px;
+    height: 250px;
+    padding: 10px;
+    color: black;
+    background-color: rgba(214, 128, 14, 0.342);
+  }
+  h1{
+    font-size: 30px;
+    font-family: cursive;
+  }
+  p{
+    font-size: 22px;
+    text-align: center;
+  }
+  .image{
+    width: /*set width to 30% of the column*/;
+    height: 10px; /* set height to 200px*/
+    object-fit: contain;
+    
+  }
+  
+  
+   button{
+    color: blue;
+    text-align: center;
+    size: 27px;
+    font-weight: 800;
+
+   }
+   header{
+    color: blue;
+    text-align: center;
+    background-position: 100px;
+    background-size: auto;
+   }
+   article{
+    max-width: 600px;
+    height: 500px;
+    background-color: darkred;
+   }
+  
+  
+  
+
+  
+
+
+    
+
+      
+    
+
+  
+  
+
+
+
+
+
+
+
+
+    
+    
